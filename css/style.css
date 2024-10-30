@@ -1,0 +1,138 @@
+.icss .entry-content img {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    width: 100%;
+}
+
+.icss {
+    margin: auto; 
+    display: none;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    z-index: 1001;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.icss {
+    
+  background-image: url('icsshoney.png');
+     background-repeat: repeat;
+     background-size: 20% 20%;
+     transition: background-image 0.7s ease-in-out;
+}   
+    
+
+
+.icss-content {
+    display: block;
+    margin: auto;
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    border: 20px;
+    border-color: rgba(0, 0, 0, 0.3);
+    border-style: solid;
+    box-shadow: 0 0 10px black;
+    z-index: 9999;
+    border-radius: 10px;
+}
+
+
+#caption {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 0;
+    height: 150px;
+}
+
+.icss-content, #caption {    
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.7s;
+    animation-name: zoom;
+    animation-duration: 0.7s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+.close {
+    position: absolute;
+    top: 2%;
+    right: 1%;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #ffff00;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    box-shadow: 0 0 50px #fff;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+}
+
+.close {
+    background-color: rgba(255, 255, 255, .4);
+}
+
+.close:hover,
+.close:focus {
+    color: #ffff00;
+    text-shadow: 1px 1px 2px #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 720px){
+    
+.icss {
+    visibility:hidden;
+}
+
+.icss-content {
+    visibility:hidden;
+}
+
+#caption {
+    visibility:hidden;
+}
+
+.icss-content, #caption {
+    visibility:hidden;
+}
+
+.close {
+    visibility:hidden;
+}
+.close:hover,
+.close:focus {
+    visibility:hidden;
+}
+
+}
+
+
+
+
+

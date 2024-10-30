@@ -1,0 +1,54 @@
+.hover11zoom {
+    transition: transform .2s;
+
+}
+
+.hover11zoom:hover {
+    transform: scale(1.1);
+}
+
+.hover12zoom {
+    transition: transform .2s;
+
+}
+
+.hover12zoom:hover {
+    transform: scale(1.2);
+}
+
+.hover13zoom {
+    transition: transform .2s;
+
+}
+
+.hover13zoom:hover {
+    transform: scale(1.3);
+}
+
+.hover14zoom {
+    transition: transform .2s;
+
+}
+
+.hover14zoom:hover {
+    transform: scale(1.4);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

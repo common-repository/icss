@@ -1,0 +1,60 @@
+
+.icssmor20 {
+  border-radius:  20%;
+}
+
+.icssmor20hover {
+      -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.icssmor20hover:hover {
+  border-radius: 20%;
+}
+
+.icssmor50 {
+  border-radius:  50%;
+}
+
+.icssmor50hover {
+      -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.icssmor50hover:hover {
+  border-radius: 50%;
+}
+
+.icssmor01 {
+  border-radius: 10px 100px / 120px;
+}
+
+.icssmor01hover {
+      -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.icssmor01hover:hover {
+  border-radius: 10px 100px / 120px;
+}
+
+.icssmor02 {
+  border-radius: 120px / 100px 10px;
+}
+
+.icssmor02hover {
+      -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.icssmor02hover:hover {
+  border-radius: 120px / 100px 10px;
+}

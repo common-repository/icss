@@ -1,0 +1,199 @@
+.border1black {
+    border: 1px solid black;
+}
+
+.border2black {
+    border: 2px solid black;
+}
+
+.border3black {
+    border: 3px solid black;
+}
+
+.border4black {
+    border: 4px solid black;
+}
+
+.border5black {
+    border: 5px solid black;
+}
+
+.border1red {
+    border: 1px solid red;
+}
+
+.border2red {
+    border: 2px solid red;
+}
+
+.border3red {
+    border: 3px solid red;
+}
+
+.border4red {
+    border: 4px solid red;
+}
+
+.border5red {
+    border: 5px solid red;
+}
+
+.border1blue {
+    border: 1px solid blue;
+}
+
+.border2blue {
+    border: 2px solid blue;
+}
+
+.border3blue {
+    border: 3px solid blue;
+}
+
+.border4blue {
+    border: 4px solid blue;
+}
+
+.border5blue {
+    border: 5px solid blue;
+}
+
+.border1green {
+    border: 1px solid green;
+}
+
+.border2green {
+    border: 2px solid green;
+}
+
+.border3green {
+    border: 3px solid green;
+}
+
+.border4green {
+    border: 4px solid green;
+}
+
+.border5green {
+    border: 5px solid green;
+}
+
+.border1yellow {
+    border: 1px solid yellow;
+}
+
+.border2yellow {
+    border: 2px solid yellow;
+}
+
+.border3yellow {
+    border: 3px solid yellow;
+}
+
+.border4yellow {
+    border: 4px solid yellow;
+}
+
+.border5yellow {
+    border: 5px solid yellow;
+}
+
+.borderhover1black:hover {
+    border: 1px solid black;
+}
+
+.borderhover2black:hover {
+    border: 2px solid black;
+}
+
+.borderhover3black:hover {
+    border: 3px solid black;
+}
+
+.borderhover4black:hover {
+    border: 4px solid black;
+}
+
+.borderhover5black:hover {
+    border: 5px solid black;
+}
+
+.borderhover1red:hover {
+    border: 1px solid red;
+}
+
+.borderhover2red:hover {
+    border: 2px solid red;
+}
+
+.borderhover3red:hover {
+    border: 3px solid red;
+}
+
+.borderhover4red:hover {
+    border: 4px solid red;
+}
+
+.borderhover5red:hover {
+    border: 5px solid red;
+}
+
+.borderhover1blue:hover {
+    border: 1px solid blue;
+}
+
+.borderhover2blue:hover {
+    border: 2px solid blue;
+}
+
+.borderhover3blue:hover {
+    border: 3px solid blue;
+}
+
+.borderhover4blue:hover {
+    border: 4px solid blue;
+}
+
+.borderhover5blue:hover {
+    border: 5px solid blue;
+}
+
+.borderhover1green:hover {
+    border: 1px solid green;
+}
+
+.borderhover2green:hover {
+    border: 2px solid green;
+}
+
+.borderhover3green:hover {
+    border: 3px solid green;
+}
+
+.borderhover4green:hover {
+    border: 4px solid green;
+}
+
+.borderhover5green:hover {
+    border: 5px solid green;
+}
+
+.borderhover1yellow:hover {
+    border: 1px solid yellow;
+}
+
+.borderhover2yellow:hover {
+    border: 2px solid yellow;
+}
+
+.borderhover3yellow:hover {
+    border: 3px solid yellow;
+}
+
+.borderhover4yellow:hover {
+    border: 4px solid yellow;
+}
+
+.borderhover5yellow:hover {
+    border: 5px solid yellow;
+}
